@@ -1,5 +1,5 @@
 .modal-content {
-    background-image: url('../../img/notepad-background.jpg');
+    background-image: url('../../img/notebook-background.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     /* background-attachment: fixed; */
@@ -12,8 +12,9 @@
   
   .modal-body {
     padding-top: 0;
-    width: 80%;
-    margin: 0 auto;
+    padding-left: 2cm;
+    width: 100%;
+    margin: 0;
   }
   
   .noteInput {
