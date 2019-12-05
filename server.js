@@ -12,6 +12,7 @@ const express = require('express'),
 const app = express();
 
 //setting up the database
+
 const config = require('./config/database');
 mongoose.Promise = Promise;
 mongoose
